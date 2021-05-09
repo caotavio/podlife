@@ -1,0 +1,264 @@
+{
+  "episodes": [
+    {
+      "id": "typescript-fundamentals-getting-a-bit-deeper",      
+      "title": "TypeScript Fundamentals — Getting a Bit Deeper",
+      "members": "Scott Tolinski and Wes Bos",
+      "published_at": "2021-04-28",
+      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+      "description": "<p>In this episode of Syntax, Scott and Wes continue their discussion of TypeScript Fundamentals with a deeper diver into more advanced use cases.</p>",
+      "file": {
+        "url": "https://traffic.libsyn.com/secure/syntax/Syntax348.mp3?dest-id=532671",
+        "type": "audio/x-m4a",
+        "duration": 4140
+      }
+    },
+    {
+      "id": "software-estimating-two-finger-pour",      
+      "title": "Software estimating - two finger pour",
+      "members": "Ryan Burgess, Augustus Yuan, Stacy London, Shirley Wu",
+      "published_at": "2021-03-14",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRjqQmtVgr-9s1jGvqw8ZCSDM4oZwh0r1DLQDK5AVmljvjHhd",
+      "description": "<p>When it comes to estimating the time it takes to build any software project, it’s never easy. There’s a lot of factors that go into estimating. In this episode, we talk about our experiences with estimating and ways we’ve improved it over the years.</p>\n",
+      "file": {
+        "url": "https://feeds.soundcloud.com/stream/1006797925-front-end-happy-hour-episode-124-software-estimating-two-finger-pour.mp3",
+        "type": "audio/x-m4a",
+        "duration": 3074
+      }
+    },
+    {
+      "id": "hasty-treat-git-rebase-explained",      
+      "title": "Hasty Treat - Git Rebase Explained",
+      "members": "Scott Tolinski and Wes Bos",
+      "published_at": "2021-04-26",
+      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+      "description": "<p>In this Hasty Treat, Scott and Wes talk about Git Rebase — what it is and how and when to use it!</p>\n",
+      "file": {
+        "url": "https://traffic.libsyn.com/secure/syntax/Syntax347.mp3?dest-id=532671",
+        "type": "audio/x-m4a",
+        "duration": 986
+      }
+    },
+    {
+      "id": "selling-and-shipping-t-shirts-with-typeScript",      
+      "title": "Selling and Shipping T-Shirts with TypeScript",
+      "members": "Scott Tolinski and Wes Bos",
+      "published_at": "2021-04-21",
+      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+      "description": "<p>In this episode of Syntax, Scott and Wes talk about selling and shipping t-shirts, and how to do it all in TypeScript!</p>",
+      "file": {
+        "url": "https://traffic.libsyn.com/secure/syntax/Syntax346.mp3?dest-id=532671",
+        "type": "audio/x-m4a",
+        "duration": 3375
+      }
+    },
+    {
+      "id": "react-query-more-react-with-tanner-linsley",      
+      "title": "React Query + More React with Tanner Linsley",
+      "members": "Scott Tolinski and Wes Bos",
+      "published_at": "2021-02-24",
+      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+      "description": "<p>In this episode of Syntax, Scott and Wes talk with Tanner Linsley about React Query, how it works, why you might want to use it, and more!</p>",
+      "file": {
+        "url": "https://traffic.libsyn.com/secure/syntax/Syntax330.mp3?dest-id=532671",
+        "type": "audio/x-m4a",
+        "duration": 3915
+      }
+    },
+    {
+      "id": "typeScript-fundamentals",      
+      "title": "TypeScript Fundamentals",
+      "members": "Scott Tolinski and Wes Bos",
+      "published_at": "2021-02-03",
+      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+      "description": "<p>In this episode of Syntax, Scott and Wes talk about TypeScript fundamentals — what it is, how you use it, why people love it so much, and more!</p>",
+      "file": {
+        "url": "https://traffic.libsyn.com/secure/syntax/Syntax324.mp3?dest-id=532671",
+        "type": "audio/x-m4a",
+        "duration": 3499
+      }
+    },
+    {
+      "id": "gatsby-vs-next-js-in-2021",      
+      "title": "Gatsby vs Next.js in 2021",
+      "members": "Scott Tolinski and Wes Bos",
+      "published_at": "2020-12-09",
+      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+      "description": "<p>In this episode of Syntax, Scott and Wes talk about Gatsby vs Next. A lot has changed in the last year — what are the differences, and do the recommendations from Syntax 120 still hold true?</p>",
+      "file": {
+        "url": "https://traffic.libsyn.com/secure/syntax/Syntax308.mp3?dest-id=532671",
+        "type": "audio/x-m4a",
+        "duration": 4153
+      }
+    },
+    {
+      "id": "building-side-projects-served-with-a-tasty-sidecar",      
+      "title": "Building side projects - Served with a tasty Sidecar",
+      "members": "Ryan Burgess, Jem Young, Shirley Wu",
+      "published_at": "2021-01-17",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRjqQmtVgr-9s1jGvqw8ZCSDM4oZwh0r1DLQDK5AVmljvjHhd",
+      "description": "<p>In this episode, we are joined by Evan Payne to talk with us about how we each approach side projects. Evan also shares a side project he’s built in Angular.</p>",
+      "file": {
+        "url": "https://feeds.soundcloud.com/stream/967365850-front-end-happy-hour-episode-120-building-side-projects-served-with-a-tasty-sidecar.mp3",
+        "type": "audio/x-m4a",
+        "duration": 3204
+      }
+    },
+    {
+      "id": "the-future-of-the-web-is-HTML-over-the-wire",      
+      "title": "The future of the web is HTML over the wire",
+      "members": "Matt E. Patterson, Jerod Santo",
+      "published_at": "2021-04-05",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGFqjQGRHqfO7XYPQ9FBu0AmlV9B9kv3Ksxd3zwvqeDdS_Kg",
+      "description": "<p>This week we’re joined by long-time web developer Matt Patterson. Earlier this year Matt wrote an evocative article for A List Apart called The Future of Web Software Is HTML-over-WebSockets. In this episode Matt sits down with Jerod to discuss, in-detail, why he believes the future of the web is server-rendered (again) and how Ruby on Rails is well positioned to bring that future to us today.</p>",
+      "file": {
+        "url": "https://cdn.changelog.com/uploads/podcast/435/the-changelog-435.mp3",
+        "type": "audio/x-m4a",
+        "duration": 3504
+      }
+    },
+    {
+      "id": "how-to-scrum",      
+      "title": "How to Scrum",
+      "members": "Allen Underwood, Michael Outlaw, Joe Zack",
+      "published_at": "2021-04-11",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHZlxmt4pe3kZtc6PzMk2sXPtXngEI9zZ5WqEuyE4j4YgugZY",
+      "description": "<p>We discuss the parts of the scrum process that we’re supposed to pay attention to while Allen pronounces the m, Michael doesn’t, and Joe skips the word altogether.</p>",
+      "file": {
+        "url": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/codingblocks/coding-blocks-episode-156.mp3",
+        "type": "audio/x-m4a",
+        "duration": 8721
+      }
+    },
+    {
+      "id": "coding-without-your-hands",      
+      "title": "Coding without your hands",
+      "members": "Josh Comeau, Adam Stacoviak, Jerod Santo",
+      "published_at": "2020-12-13",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGFqjQGRHqfO7XYPQ9FBu0AmlV9B9kv3Ksxd3zwvqeDdS_Kg",
+      "description": "<p>What do you do when you make a living typing on a keyboard, but you can no longer do that for more than a few minutes at a time? Switch careers?! Not Josh Comeau. He decided to learn from others who have come before him and develop his own solution for coding without his hands. Spoiler Alert: he uses weird noises and some fancy eye tracking tech.</p><p>On this episode Josh tells us all about the fascinating system he developed, how it changed his perspective on work & life, and where he’s going from here. Plus we mix in some CSS & JS chat along the way.</p>",
+      "file": {
+        "url": "https://cdn.changelog.com/uploads/podcast/423/the-changelog-423.mp3",
+        "type": "audio/x-m4a",
+        "duration": 4691
+      }
+    },
+    {
+      "id": "specialize-or-bounce-around",      
+      "title": "Specialize or Bounce Around?",
+      "members": "Allen Underwood, Michael Outlaw, Joe Zack",
+      "published_at": "2021-02-28",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHZlxmt4pe3kZtc6PzMk2sXPtXngEI9zZ5WqEuyE4j4YgugZY",
+      "description": "<p>It’s been a minute since we last gathered around the water cooler, as Allen starts an impression contest, Joe wins said contest, and Michael earned a participation award.</p>",
+      "file": {
+        "url": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/codingblocks/coding-blocks-episode-153.mp3",
+        "type": "audio/x-m4a",
+        "duration": 7405
+      }
+    },
+    {
+      "id": "secret-screencasting-tips-and-behind-the-scenes-of-tailwind-CSS-2",      
+      "title": "Secret Screencasting Tips & Behind the Scenes of Tailwind CSS 2.0",
+      "members": "Adam Wathan and Jack McDade",
+      "published_at": "2020-08-21",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9M4BrVwjAO9HM8h1tNhWJ0iOah_ERztSZKs8D2DrxSexPFs",
+      "description": "<p>Adam's massive brain is picked for some juicy screencasting secrets and Tailwind 2 is featured!</p>",
+      "file": {
+        "url": "https://media.transistor.fm/1298246d/8229b9a1.mp3",
+        "type": "audio/x-m4a",
+        "duration": 3548
+      }
+    },
+    {
+      "id": "statamic-3-and-tailwind-CSS-2",      
+      "title": "Statamic 3.0 and Tailwind CSS 2.0",
+      "members": "Adam Wathan and Jack McDade",
+      "published_at": "2020-08-20",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9M4BrVwjAO9HM8h1tNhWJ0iOah_ERztSZKs8D2DrxSexPFs",
+      "description": "<p>Adam and Jack talk about the new Statamic 3.0 and more About Tailwind 2!</p>",
+      "file": {
+        "url": "https://media.transistor.fm/84d25024/7630050a.mp3",
+        "type": "audio/x-m4a",
+        "duration": 4530
+      }
+    },
+    {
+      "id": "friday-refill-how-patience-pays-off",      
+      "title": "Friday Refill: How Patience Pays Off",
+      "members": "Jonathan Cutrell",
+      "published_at": "2021-03-19",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZGr7_omlmPWFPPxlH2gRIlLHzgcGQwrFUMOf57pE6TQ0qKY",
+      "description": "<p>Patience is more than a virtue. Patience is a signal that you understand the importance of gratitude and the vanity of rushing or attempting to control what you cannot. In this Friday refill, we'll discuss some of the mechanics of patience and how it relates to other parts of our lives.</p>",
+      "file": {
+        "url": "https://cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/0cf7e7ed-b664-4ca9-bffd-b5db5aa7a3ac/audio/f37ecb86-7481-465e-ba60-8d80b5623c67/default_tc.mp3?aid=rss_feed&feed=dLRotFGk",
+        "type": "audio/x-m4a",
+        "duration": 840
+      }
+    },
+    {
+      "id": "superpowered-imagination",      
+      "title": "Superpowered Imagination",
+      "members": "Jonathan Cutrell",
+      "published_at": "2021-03-11",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZGr7_omlmPWFPPxlH2gRIlLHzgcGQwrFUMOf57pE6TQ0qKY",
+      "description": "<p>Much of our attention and effort is used trying to remove human influence and finding raw truth. Today, I want to ask you to do the opposite of that.</p>",
+      "file": {
+        "url": "https://cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/3420ec03-5bd0-447f-9f55-6e399b27a5f2/audio/3e4470d6-6b94-475f-864c-0c8ea7bc5a1f/default_tc.mp3?aid=rss_feed&feed=dLRotFGk",
+        "type": "audio/x-m4a",
+        "duration": 852
+      }
+    },
+    {
+      "id": "devOps-for-the-javaScript-developer",      
+      "title": "DevOps for the JavaScript Developer",
+      "members": "Aimee Knight, AJ O'Neal, Dan Shappir",
+      "published_at": "2021-03-16",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzxlsylkvbs2plopS-Vju8X2-WgMjj-sM_sROoUIDxH4aj9MW6",
+      "description": "<p>In recent years the term DevOps has become ubiquitous - you'll find DevOps engineers in most every tech organization. But what does DevOps actually mean, and how does it differ from previously existing System and Network engineering and DBAs? In this episode our own Aimee Knight, who is currently expanding her role into DevOps, answers these questions, and provide further information about it.</p>",
+      "file": {
+        "url": "https://media.devchat.tv/js-jabber/JSJ_475_DevOps_for_the_JavaScript_developer.mp3",
+        "type": "audio/x-m4a",
+        "duration": 3979
+      }
+    },
+    {
+      "id": "practical-microservices-with-ethan-garofolo",      
+      "title": "Practical Microservices with Ethan Garofolo",
+      "members": "Aimee Knight, AJ O'Neal, Steve Edwards, Ethan Garofolo",
+      "published_at": "2021-03-13",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzxlsylkvbs2plopS-Vju8X2-WgMjj-sM_sROoUIDxH4aj9MW6",
+      "description": "<p>Ethan Garofolo is the author of Practical Microservices with Pragmatic Programmers. He starts out debunking the ideas behind pulling parts of a monolith into a different services and change function calls into HTTP calls. Instead, it's an approach that keeps things moving for development teams that solves several productivity issues. He breaks down the ways to move functionality around and which approaches make sense for breaking your application up into pieces that are easy to work on and approachable for multiple teams.</p>",
+      "file": {
+        "url": "https://media.devchat.tv/js-jabber/JSJ_479_Ethan_Garofolo.mp3",
+        "type": "audio/x-m4a",
+        "duration": 4650
+      }
+    },
+    {
+      "id": "pair-programming",      
+      "title": "Pair Programming",
+      "members": "BJ Burns and Will Gant",
+      "published_at": "2020-04-29",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3TR41qashu-3X_FmBFVYlos6cDYzncfpwb4_OR83zfwsqZS4",
+      "description": "<p>Pair programming is a useful way to improve code quality, cross train team members, and on-board new developers quickly without boring training. In addition to making it easier to solve more difficult problems, it also helps with team cohesion and helps people understand how other team members think. Best of all, if done properly, it may not negatively impact your team’s throughput – it could even improve it.</p>",
+      "file": {
+        "url": "https://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0301_Pair_Programming.mp3",
+        "type": "audio/x-m4a",
+        "duration": 3553
+      }
+    },
+    {
+      "id": "antifragile",      
+      "title": "Antifragile",
+      "members": "BJ Burns and Will Gant",
+      "published_at": "2021-04-08",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3TR41qashu-3X_FmBFVYlos6cDYzncfpwb4_OR83zfwsqZS4",
+      "description": "<p>There are general principles of system (and life) design that need to be applied if you don’t want to constantly be dealing with problems. The principles of antifragility are especially useful to observe when you start noticing catastrophic failures that manifest as a chain of smaller failures that increase in intensity until something breaks in a major way. Following these principles, you should be able to figure out and mitigate many of them.</p>",
+      "file": {
+        "url": "https://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0298_Antifragile.mp3",
+        "type": "audio/x-m4a",
+        "duration": 3743
+      }
+    }
+  ]
+}
